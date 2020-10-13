@@ -1,2 +1,2 @@
-# PioGo
+# picgo
 This is my tuchuang
